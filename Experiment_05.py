@@ -1,3 +1,4 @@
+AIM: WRITE A PROGRAM TO REVERSE EVERY KTH ROW IN MATRIX.
 def reverse_kth_row(matrix, k):
     if k < 0 or k >= len(matrix):
         return "Invalid row index"
