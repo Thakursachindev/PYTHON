@@ -1,3 +1,5 @@
+AIM: WRITE A PROGRAM TO DEMONSTRATE TYPE CHECKING OF VARIOUS DATA TYPES AND DEMONSTRATE THE USE OF FOLLOWING BUILT IN FUNCTIONS IN PYTHON: abs(), len(), round(), isalnum(), type()
+
 # Type Checking
 data_types = [10, 10.5, "Hello", True, [1, 2, 3], (4, 5, 6), {'a': 1, 'b': 2}, None]
 
