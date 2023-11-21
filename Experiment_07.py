@@ -1,3 +1,4 @@
+AIM: CREATE A DATABASE USING LISTS AND TUPLES.
 # Example database using lists and tuples
 # Each tuple represents a record with information about a person: (ID, Name, Age, Gender)
 
