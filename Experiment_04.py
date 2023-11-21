@@ -1,3 +1,4 @@
+AIM: WRITE A PROGRAM TO PERFORM SEARCHING ACTIVITY USING LINEAR AND BINARY SEARCH.
 #Linear Search
 
 def linear_search(arr, target):
