@@ -1,3 +1,4 @@
+AIM: WRITE A PROGRAM TO IMPLEMENT AN EMPLOYEE MANAGEMENT SYSTEM USING CLASSES, INSTANCES, AND INHERITANCE.
 # Parent class Employee
 class Employee:
     def __init__(self, emp_id, name, salary):
