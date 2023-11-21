@@ -1,3 +1,4 @@
+AIM: WRITE A PROGRAM TO CREATE A LIST OF STUDENTS RECORDS AND SEARCH A STUDENT RECORD USING DICTIONARY.
 # Function to search a student record by ID
 def search_student_by_id(student_list, student_id):
     for student in student_list:
