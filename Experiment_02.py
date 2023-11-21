@@ -1,3 +1,4 @@
+AIM: WRITE A PROGRAM TO ILLUSTRATE ITERATION OVER THE LIST AND DICTIONARY
 # Iterating over a List
 my_list = [1, 2, 3, 4, 5]
 
